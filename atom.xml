@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Soul</title>
+  
+  <subtitle>寄蜉蝣于天地,渺沧海之一粟</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://czqsoul.github.io/"/>
+  <updated>2019-08-27T02:29:04.409Z</updated>
+  <id>https://czqsoul.github.io/</id>
+  
+  <author>
+    <name>Soul</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>个人介绍</title>
+    <link href="https://czqsoul.github.io/2019/08/26/Soul/"/>
+    <id>https://czqsoul.github.io/2019/08/26/Soul/</id>
+    <published>2019-08-26T10:44:40.918Z</published>
+    <updated>2019-08-27T02:29:04.409Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="个人介绍"><a href="#个人介绍" class="headerlink" title="个人介绍"></a>个人介绍</h2><h4 id="emsp-性别男-爱好女-长得帅"><a href="#emsp-性别男-爱好女-长得帅" class="headerlink" title="&emsp;性别男,爱好女,长得帅"></a>&emsp;性别男,爱好女,长得帅</h4><h4 id="emsp-附带本人真实照片"><a href="#emsp-附带本人真实照片" class="headerlink" title="&emsp;附带本人真实照片:"></a>&emsp;附带本人真实照片:</h4><div align="center"><img width="250" height="300" src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1566826852690&di=e53c2f5c0044e4dfb7cd04ac6725279e&imgtype=0&src=http%3A%2F%2Fimg.besoo.com%2Ffile%2F201608%2F18%2F1741459845908.jpg"></div><h3 id="个人喜好"><a href="#个人喜好" class="headerlink" title="个人喜好:"></a>个人喜好:</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">英雄联盟:<span class="string">"守望之海:ID文艺少年(最强王者五)"</span></span><br><span class="line">篮球:<span class="string">"我是长达两年半的练习生:陈旭坤;我会唱跳,rap,篮球;msuic!"</span></span><br></pre></td></tr></table></figure><h3 id="技术方面"><a href="#技术方面" class="headerlink" title="技术方面:"></a>技术方面:</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">react:熟练掌握react的卸载与重装;</span><br><span class="line">vue:熟练使用vue脚手架搭建项目;</span><br><span class="line">redux:熟悉redux的异步1+1使用;</span><br><span class="line">node:精通掌握node的各种引包方法及变量名的新颖;</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;个人介绍&quot;&gt;&lt;a href=&quot;#个人介绍&quot; class=&quot;headerlink&quot; title=&quot;个人介绍&quot;&gt;&lt;/a&gt;个人介绍&lt;/h2&gt;&lt;h4 id=&quot;emsp-性别男-爱好女-长得帅&quot;&gt;&lt;a href=&quot;#emsp-性别男-爱好女-长得帅&quot; class=&quot;head
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>获取项目</title>
+    <link href="https://czqsoul.github.io/2019/08/26/hello-world/"/>
+    <id>https://czqsoul.github.io/2019/08/26/hello-world/</id>
+    <published>2019-08-26T06:34:02.232Z</published>
+    <updated>2019-08-27T06:17:40.076Z</updated>
+    
+    <content type="html"><![CDATA[<p>欢迎来到我的个人博客 <a href="https://github.com/czqSoul/czqSoul.github.io" target="_blank" rel="noopener">git</a> 这个博客是闲暇时抽空做的 灵感来自 <a href="https://github.com/klugjo/hexo-theme-anodyne" target="_blank" rel="noopener">anodyne</a> 欢迎提交 <a href="https://github.com/czqSoul/czqSoul.github.io/issues" target="_blank" rel="noopener">Issuse</a></p><h2 id="环境"><a href="#环境" class="headerlink" title="环境"></a>环境</h2><h3 id="1-node-6-9-2-git-3-npm-install-g-hexo-cli"><a href="#1-node-6-9-2-git-3-npm-install-g-hexo-cli" class="headerlink" title="1.node:6.9+  2.git  3.npm install -g hexo-cli"></a>1.node:6.9+ <br> 2.git <br> 3.npm install -g hexo-cli</h3><h2 id="获取"><a href="#获取" class="headerlink" title="获取"></a>获取</h2><h3 id="git-地址-或者下载压缩包"><a href="#git-地址-或者下载压缩包" class="headerlink" title="git 地址 或者下载压缩包"></a><a href="https://github.com/czqSoul/czqSoul.github.io" target="_blank" rel="noopener">git</a> 地址 或者下载压缩包</h3><h4 id><a href="#" class="headerlink" title></a><img src="https://antspace-dev-img-1.oss-cn-shenzhen.aliyuncs.com/7c335e54869120bbb9248b024f347b7.png" alt="git"></h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">one:<span class="string">"cd 目录"</span></span><br></pre></td></tr></table></figure><h3 id="下载依赖"><a href="#下载依赖" class="headerlink" title="下载依赖"></a>下载依赖</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">two:<span class="string">"npm install"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="启动服务"><a href="#启动服务" class="headerlink" title="启动服务"></a>启动服务</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">three:<span class="string">"hexo server"</span></span><br></pre></td></tr></table></figure><h3 id="启动服务报错"><a href="#启动服务报错" class="headerlink" title="启动服务报错"></a>启动服务报错</h3><p>issuse: <a href="https://github.com/czqSoul/czqSoul.github.io/issues" target="_blank" rel="noopener">issuse</a></p><h3 id="提交项目"><a href="#提交项目" class="headerlink" title="提交项目"></a>提交项目</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">five:<span class="string">"hexo d -g(打包丢到gitpackge,需要更改自己的git地址，具体配置请看下面Hexo官网)"</span></span><br></pre></td></tr></table></figure><h3 id="Hexo地址-Hexo"><a href="#Hexo地址-Hexo" class="headerlink" title="Hexo地址: Hexo"></a>Hexo地址: <a href="https://hexo.io/zh-cn/api/events" target="_blank" rel="noopener">Hexo</a></h3><p>主题来自于: <a href="https://github.com/Sariay/hexo-theme-Annie" target="_blank" rel="noopener">anodyne</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;欢迎来到我的个人博客 &lt;a href=&quot;https://github.com/czqSoul/czqSoul.github.io&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;git&lt;/a&gt; 这个博客是闲暇时抽空做的 灵感来自 &lt;a href=&quot;https
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
