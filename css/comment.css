@@ -73,7 +73,7 @@
   line-height: 1.6;
   cursor: pointer;
   word-break: keep-all;
-  text-transform: uppercase;
+  text-transform: none;
   display: inline-block;
 /*display: inline-block;  fix button ‘回复’ display on Firefox*/
 }
